@@ -1,12 +1,12 @@
 // console.log
 var data = {
     Name : 'QingZyi',
-    Date : '27 Sept 2024';
-    Generator : 'HTML, CSS, JAVASCRIPT',
+    Date : '27 Sept 2024',
+    Generator : 'HTML, CSS, JAVASCRIPT'
 }
-console.log(Author: ${data.Name} , Date: ${data.Date} , Use: ${data.Generator});
+console.log(`Author: ${data.Name} , Date: ${data.Date} , Use: ${data.Generator}`);
 
-let text = '该网站应链接到 https://shuaigewxx.w3spaces.com 👨‍🎓'
+let text = '该网站应链接到 https://shuaigewxx.w3spaces.com 👨‍🎓';
 console.log(text);
 
 console.log('Better Desktop Mode');
@@ -60,9 +60,9 @@ function myTwi() {
 }
 
 function myWa() {
-    window.location.href='https://www.whatsapp.com/'; //tambahkan link whatsapp
+    window.location.href='https://wa.me/628971202446'; //tambahkan link whatsapp
 }
 
 function myGit() {
-    window.location.href= 'https://www.github.com' //tambahkan link github
+    window.location.href= 'https://www.github.com/' //tambahkan link github
 }
