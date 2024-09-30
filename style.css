@@ -3,17 +3,6 @@
     margin: 0;
 }
 
-/* definisi font ke dalam css */
-@font-face {
-    font-family: 'Object Black';
-    src: local('Object Black'), local('Object-Black'),
-        url('assets/font/Object-Black.woff2') format('woff2'),
-        url('assets/font/Object-Black.woff') format('woff'),
-        url('assets/font/Object-Black.ttf') format('truetype');
-    font-weight: 900;
-    font-style: normal;
-}
-
 /* beri style pada background */
 body {
     background-image: url('/assets/image/cover/cover.webp');
