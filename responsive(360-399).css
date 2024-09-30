@@ -1,0 +1,282 @@
+/* PORTRAIT MODE 390 - 435 px */
+@media only screen and (min-width: 360px) and (max-width: 399px) and (orientation: portrait){
+/* style wraper-main */
+.wraper-main {
+    display: block;
+}
+
+/* stytle logo */
+.logo img{
+    width: 100%;
+}
+
+/* style teks image */
+.image {
+    width: 99%;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 20px;
+}
+
+.image h2 {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 0px 0px 10px black, /*buat neon */
+                 0px 0px 20px black,
+                 0px 0px 40px black,
+                 0px 0px 60px black;
+}
+
+/* style swiper images */
+.swiper {
+    width: 100%;
+    height: 50%;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: 100%;
+    padding: 12px;
+    background-color: white;
+}
+
+/* style happy */
+.happy {
+    padding-top: 50px;
+    padding-left: 0px;
+    text-align: center;
+}
+
+.text {
+    color: white;
+    font-size: 40px;
+}
+
+.date {
+    color: rgb(255, 140, 0);
+    font-weight:bold;
+    font-size: 10px;
+    letter-spacing: 8px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+/* style wrapper-second */
+.wrapper-second {
+    padding-top: 150px;
+}
+
+/* style our-grad */
+.our-grad h2{
+    text-align: center;
+}
+
+.text-our {
+    color: white;
+    font-size: 40px;
+}
+
+.date-our {
+    color: rgb(255, 140, 0);
+    font-weight:bold;
+    font-size: 10px;
+    letter-spacing: 8px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* style img-our */
+.img-our {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+.wrap-our {
+    display: flex;
+    width: 90%; /*change*/
+}
+
+.wrap-our img {
+    width: 100%; /*change*/
+    height: auto;
+    padding: 8px;
+    margin-left: 6px;
+    transform: rotate(-1deg);
+    background-color: white;
+}
+
+/* style wrapper-third */
+.wrapper-third {
+    margin: 400px 0px 0px 0px;
+}
+
+/* style glad */
+.glad {
+    text-align: center;
+}
+
+.wrapp-glad {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+}
+
+.text-glad {
+    color: #ffffff;
+    font-size: 40px;
+}
+
+.date-glad {
+    color: rgb(255, 140, 0);
+    font-weight:bold;
+    font-size: 0.5rem;
+    letter-spacing: 8px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* style img-glad */
+.img-glad {
+    max-width: 100%;
+    padding-top: 20px;
+}
+
+.wrap-glad {
+    width: 90%; /*change*/
+}
+
+.wrap-glad img {
+    width: 100%; /*change*/
+    height: auto;
+    padding: 8px;
+    margin-left: 6px;
+    transform: rotate(-2deg);
+    background-color: white;
+}
+
+/* style wrapper-fourth */
+.wrapper-fourth {
+    padding: 250px 10px 0px 10px;
+}
+
+/* style social-media */
+.title-media h2 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+/* style line-media */
+.line-media {
+    border: 3px solid rgb(218, 152, 0);
+}
+
+/* style icon-media */
+.wrap-icon {
+    background: rgba( 201, 32, 32, 0 );
+    box-shadow: 0 8px 32px 0 #fba300;
+    backdrop-filter: blur( 2px );
+    -webkit-backdrop-filter: blur( 20px );
+    border-radius: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.icon-media {
+    display:flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.icon-media i{
+    font-size: 60px;
+    color: white;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.icon-media p {
+    font-size: 30px;
+    color: white;
+}
+
+/* instagram */
+.fa-instagram:hover,
+.t-instagram:hover {
+    background: linear-gradient(to top left, #833ab4,#fd1d1d,#fcb045);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* twitter */
+.fa-twitter:hover,
+.t-twitter:hover {
+    color: #1DA1F2;
+}
+
+/* whatsapp */
+.fa-whatsapp:hover,
+.t-whatsapp:hover {
+    color: #25D366;
+}
+
+/* github */
+.fa-github:hover,
+.t-github:hover {
+    color: #28a745;
+}
+
+
+/* style wrapper-end */
+.wrapper-end {
+    text-align: center;
+    padding-top: 250px;
+}
+
+/* style logo-end */
+.logo-end {
+    text-align: center;
+}
+
+.logo-end img {
+    width: 80%;
+}
+
+/* style text-end */
+.text-end {
+    padding: 150px 0px 0px 0px;
+}
+
+.text-end-one {
+    color: white;
+    font-size: 40px;
+}
+
+.text-end-two {
+    color: rgb(255, 140, 0);
+    font-weight:bold;
+    font-size: 25px;
+    letter-spacing: 9px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* style link-end */
+.link-end {
+    padding: 250px 0px 50px 0px;
+    text-align: center;
+}
+
+.link-end a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.link-end a:hover {
+    color: rgb(255, 140, 0);
+}
+}
