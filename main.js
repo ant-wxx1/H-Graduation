@@ -1,7 +1,7 @@
 // console.log
 var data = {
     Name : 'QingZyi',
-    Date : '27 Sept 2024',
+    Date : '27 Sept 2024';
     Generator : 'HTML, CSS, JAVASCRIPT',
 }
 console.log(`Author: ${data.Name} , Date: ${data.Date} , Use: ${data.Generator}`);
