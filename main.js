@@ -1,15 +1,3 @@
-// console.log
-var data = {
-    Name : 'QingZyi',
-    Date : '27 Sept 2024';
-    Generator : 'HTML, CSS, JAVASCRIPT',
-}
-console.log(`Author: ${data.Name} , Date: ${data.Date} , Use: ${data.Generator}`);
-
-let text = '该网站应链接到 https://shuaigewxx.w3spaces.com 👨‍🎓'
-console.log(text);
-
-console.log('Better Desktop Mode');
 
 // tambah script untuk image swiper
 const swiper = new Swiper('.swiper', {
@@ -49,22 +37,3 @@ const swiper = new Swiper('.swiper', {
         loadPrevNext: true,
     },
 });
-
-
-
-// script utk taut link social-media
-function myIns() {
-    window.location.href='https://www.instagram.com/'; //tambahkan link instagram
-}
-
-function myTwi() {
-    window.location.href='https://www.twitter.com/'; //tambahkan link twitter
-}
-
-function myWa() {
-    window.location.href='https://www.whatsapp.com/'; //tambahkan link whatsapp
-}
-
-function myGit() {
-    window.location.href= 'https://www.github.com' //tambahkan link github
-}
