@@ -5,7 +5,7 @@
 
 /* beri style pada background */
 body {
-    background-image: url('/assets/image/cover/cover.webp');
+    background-image: url('cover.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
