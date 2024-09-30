@@ -53,16 +53,16 @@ const swiper = new Swiper('.swiper', {
 // script utk taut link social-media
 function myIns() {
     window.location.href='https://www.instagram.com/'; //tambahkan link instagram
-};
+}
 
 function myTwi() {
     window.location.href='https://www.twitter.com/'; //tambahkan link twitter
-};
+}
 
 function myWa() {
     window.location.href='https://wa.me/628971202446'; //tambahkan link whatsapp
-};
+}
 
 function myGit() {
-    window.location.href= 'https://www.github.com/' //tambahkan link github
-};
+    window.location.href= 'https://www.github.com/'; //tambahkan link github
+}
