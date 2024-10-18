@@ -64,5 +64,5 @@ function myWa() {
 }
 
 function myWechat() {
-    window.location.href= 'weixin://dl/chat?XiaoHuang_0801'; //tambahkan link github
+    window.location.href= 'weixin://dl/chat?token=XiaoHuang_0801'; //tambahkan link github
 }
