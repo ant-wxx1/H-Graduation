@@ -239,10 +239,10 @@ body {
     color: #25D366;
 }
 
-/* github */
-.fa-github:hover,
-.t-github:hover {
-    color: #28a745;
+/* wechat */
+.fa-weixin:hover,
+.t-weixin:hover {
+    color: #09B83E;
 }
 
 
