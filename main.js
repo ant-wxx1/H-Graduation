@@ -52,7 +52,7 @@ const swiper = new Swiper('.swiper', {
 
 // script utk taut link social-media
 function myIns() {
-    window.location.href='https://www.instagram.com/'; //tambahkan link instagram
+    window.location.href='https://www.instagram.com/anthony.wxx'; //tambahkan link instagram
 }
 
 // function myTwi() {
@@ -64,5 +64,5 @@ function myWa() {
 }
 
 function myWechat() {
-    window.location.href= 'weixin://dl/chat?token=XiaoHuang_0801'; //tambahkan link github
+    window.location.href= 'weixin://dl/chat?token=huangdage242986'; //tambahkan link github
 }
