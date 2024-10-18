@@ -6,7 +6,7 @@ var data = {
 }
 console.log(`Author: ${data.Name} , Date: ${data.Date} , Use: ${data.Generator}`);
 
-let text = '该网站应链接到 https://shuaigewxx.w3spaces.com 👨‍🎓';
+let text = '该网站应链接到 https://ant-wxx1.github.io/H-Graduation/ 👨‍🎓';
 console.log(text);
 
 console.log('Better Desktop Mode');
